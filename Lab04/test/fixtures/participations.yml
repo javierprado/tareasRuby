@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  team_id: 
+  group_id: 
+  played_games: 1
+  winned_games: 1
+  losed_games: 1
+  draw_games: 1
+  goals: 1
+  catched_goals: 1
+
+two:
+  team_id: 
+  group_id: 
+  played_games: 1
+  winned_games: 1
+  losed_games: 1
+  draw_games: 1
+  goals: 1
+  catched_goals: 1
